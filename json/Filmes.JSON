@@ -1,0 +1,93 @@
+{
+ "categoria":[{
+
+	"codigo":"001",
+	"descricao":"Terror",
+	"filme":[
+			{"codigo":"001",
+			"titulo":" O Massacre da Serra Elétrica",
+			"dataLancamento":"557107200",
+			"Direcao":"Tobe Hooper",
+			"preco":"5,00"
+			},
+
+			
+			{"codigo":"002",
+			"titulo":"Floresta do Mal",
+			"dataLancamento":"557107200",
+			"Direcao":"Joe Lynch",
+			"preco":"5,00"
+			},
+								
+			{"codigo":"003",
+			"titulo":"Atividade Paranormal",
+			"dataLancamento":"557107200",
+			"Direcao":"Oren Peli",
+			"preco":"5,00"
+			},
+			
+			{"codigo":"004",
+			"titulo":"O chamado",
+			"dataLancamento":"557107200",
+			"Direcao":"Gore Verbinski",
+			"preco":"5,00"
+			},
+			
+			{"codigo":"005",
+			"titulo":"Quando As Luzes Se Apagam",
+			"dataLancamento":"557107200",
+			"Direcao":"David F. Sandberg",
+			"preco":"5,00"
+			},
+		]
+
+},
+
+{
+
+	"codigo":"002",
+	"descricao":"Comédia",
+	"filme":[
+			{"codigo":"001",
+			"titulo":" ",
+			"dataLancamento":"557107200",
+			"Direcao":" ",
+			"preco":"5,00"
+			},
+
+			
+			{"codigo":"002",
+			"titulo":" ",
+			"dataLancamento":"557107200",
+			"Direcao":" ",
+			"preco":"5,00"
+			},
+								
+			{"codigo":"003",
+			"titulo":" ",
+			"dataLancamento":"557107200",
+			"Direcao":" ",
+			"preco":"5,00"
+			},
+			
+			{"codigo":"004",
+			"titulo":" ",
+			"dataLancamento":"557107200",
+			"Direcao":" ",
+			"preco":"5,00"
+			},
+			
+			{"codigo":"005",
+			"titulo":" ",
+			"dataLancamento":"557107200",
+			"Direcao":" ",
+			"preco":"5,00"
+			},
+		]
+
+},
+
+
+]
+
+}
